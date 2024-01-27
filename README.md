@@ -1,6 +1,6 @@
 # 🌱Reflection on Dr. Seah Choon Sen's Webinar on i-Farm Initiative
 
-Dr. Seah Choon Sen's webinar on the i-Farm initiative, held on January 14, 2024, was both informative and inspiring. The presentation, conducted via Webex from 2:30 pm to 3:30 pm, provided a comprehensive overview of i-Farm's innovative approach to urban agriculture, addressing contemporary challenges in the food supply chain.
+Dr. Seah Choon Sen's webinar on the i-Farm initiative was both informative and inspiring. The presentation provided a comprehensive overview of i-Farm's innovative approach to urban agriculture, addressing contemporary challenges in the food supply chain.
 
 ## Transformative Potential:
 Dr. Seah effectively positioned i-Farm as a transformative force in urban agriculture. The emphasis on vertical farming, controlled environment agriculture (CEA), and IoT systems highlighted the initiative's innovative and integrated approach to sustainable food production.
